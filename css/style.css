@@ -221,7 +221,7 @@ td { vertical-align: top; }
 /* Site Styling */
 body { font-family: Georgia, "Times New Roman", Times, serif; font-size: 12px; line-height: 15px; color: #fff; }
 a { color: #fff; text-decoration: underline; }
-a:hover { color: #fff; text-decoration: line-through; }
+a:hover { color: #fff; text-decoration: line-through; } /* this is cool but might be confusing...strikeouts are usually used to indicate functionality that doesn't exist / is broken */
 ul { list-style: none; margin: 0px; padding: 0px; }
 
 /* Nav Styling */
