@@ -226,7 +226,7 @@ ul { list-style: none; margin: 0px; padding: 0px; }
 
 /* Nav Styling */
 header { margin: 40px 0px 0px 20px; width: 215px; height: 240px; }
-#header-title { height: 32px; background-image:url(../img/header_title.png); text-indent: -9999em; }
+#header-title { height: 32px; background-image:url(../img/header_title.png); text-indent: -9999em; display: block;}
 #header-contents { padding: 7px 0px 0px 10px; height: 201px; background: #000; }
 #header-subtitle { margin-bottom: 30px; background-color: #000; }
 
